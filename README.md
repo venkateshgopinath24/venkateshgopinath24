@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Venkatesh Gopinath Bogem. <img align="right" alt="GIF" src="https://i.ibb.co/2gdmMjK/image.png" width="500"></h2>
+<h2> Hey there! I'm Venkatesh Gopinath Bogem 👋. <img align="right" alt="GIF" src="https://i.ibb.co/2gdmMjK/image.png" width="500"></h2>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
