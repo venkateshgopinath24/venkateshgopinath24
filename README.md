@@ -7,7 +7,7 @@ An aspiring Data Analyst who enjoys solving tough problems. I love to work witho
 
 During my work as a Business Analyst for about 2 years, I have developed a hard attitude on not giving up on my tasks. I was responsible for analyzing the needs of the various functional business areas within the organization and recommending system solutions or procedures. As a liaison between the business and IT departments, I needed to ensure that I modify or enhance existing application processes. Hence I am able to jump across verticals to deliver high-performing solutions.
 
-I'm graduating in Dec 2023 and I'm interested in full-time Data Analyst / related roles. Please feel free to get in touch with me via email at bogem.v@northeastern.edu
+I'm graduating in May 2024 and I'm interested in full-time Data Engineer / Data Analyst / Data Scientist / related roles. Please feel free to get in touch with me via email at bogem.v@northeastern.edu
 
 - 🎓 &nbsp; Currently doing my Master's degree in Data Analytics Engineering at Northeastern University.
 - :teacher:  Also T.A under Prof. Matt Higger for "Intermediate Programming with Data" at Khoury College of computer sciences.
