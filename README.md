@@ -29,7 +29,7 @@ I'm looking for full-time Data Engineer / Data Analyst / Data Scientist / relate
 - :hammer_and_wrench: Tableau | Excel | Flourish | Data Wrapper
 - 🔧 &nbsp; Jupyter | Spyder | PyCharm | Visual Studio code | Eclipse | Git
 - ☁️ AWS (S3, EC2, Kinesis, Glue, QuickSight, Redshift, Lambda, IAM, DynamoDB, Athena, Elasticsearch, IAM), similar services in GCP and Azure
-- - 🖥 &nbsp;  Photoshop
+- 🖥 &nbsp;  Photoshop
 
 <br>
 
