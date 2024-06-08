@@ -3,14 +3,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-An aspiring Data Analyst who enjoys solving tough problems. I love to work without boundaries, be it ideas from different disciplines, people from different teams, or applications from different industries. I have good technical skills and a sound academic background in engineering and statistics.
+🚀 Innovative Data Engineer | Crafting Data Solutions for Success 🛠️
 
-During my work as a Business Analyst for about 2 years, I have developed a hard attitude on not giving up on my tasks. I was responsible for analyzing the needs of the various functional business areas within the organization and recommending system solutions or procedures. As a liaison between the business and IT departments, I needed to ensure that I modify or enhance existing application processes. Hence I am able to jump across verticals to deliver high-performing solutions.
+🎓 With a Master’s in Data Analytics Engineering from Northeastern University and hands-on experience at Datics Inc. and ACCK Solutions, I specialize in transforming complex datasets into actionable insights and strategic decisions. My expertise spans across ETL processes, machine learning, and data visualization, having streamlined ETL workflows by 50% and developed over 15 interactive dashboards widely adopted for strategic planning. I leverage a broad toolkit including Python, R, SQL, and cloud technologies (AWS, GCP, Azure) to drive data-driven decision-making.
 
-I graduated in May 2024 and I'm looking for full-time Data Engineer / Data Analyst / Data Scientist / related roles. Please feel free to get in touch with me via email at bogem.v@northeastern.edu
+👩‍🏫 As a Teaching Assistant at Northeastern University, I enhanced students' data science and machine learning capabilities, reflecting my commitment to sharing knowledge and fostering analytical acumen.
 
-- 🎓 &nbsp; Currently doing my Master's degree in Data Analytics Engineering at Northeastern University.
-- :teacher:  Also T.A under Prof. Matt Higger for "Intermediate Programming with Data" at Khoury College of computer sciences.
+🔍 My projects, including telco customer churn prediction and sentiment analysis of online product reviews, demonstrate my ability to apply analytical rigor and machine learning to solve real-world problems, achieving significant precision and accuracy improvements.
+
+💡 Passionate about extracting meaningful insights from data, I am eager to contribute to and grow within innovative environments.
+
+I'm looking for full-time Data Engineer / Data Analyst / Data Scientist / related roles. Please feel free to get in touch with me via email at bogem.v@northeastern.edu
+
+- 🎓 &nbsp; Master's degree in Data Analytics Engineering at Northeastern University.
+- :teacher:  T.A under Prof. Matt Higger for "Intermediate Programming with Data" and Prof. Ahmed Bilal for "Machine Learning / Data Mining" at Khoury College of computer sciences.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Analytics and Machine Learning enthusiast.
 - ✍️ &nbsp; Watching Anime and thriller/sci-fi movies.
