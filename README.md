@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-🚀 Innovative Data Engineer | Crafting Data Solutions for Success 🛠️
+🚀 Innovative Data Professional | Crafting Data Solutions for Success 🛠️
 
 🎓 With a Master’s in Data Analytics Engineering from Northeastern University and hands-on experience at Datics Inc. and ACCK Solutions, I specialize in transforming complex datasets into actionable insights and strategic decisions. My expertise spans across ETL processes, machine learning, and data visualization, having streamlined ETL workflows by 50% and developed over 15 interactive dashboards widely adopted for strategic planning. I leverage a broad toolkit including Python, R, SQL, and cloud technologies (AWS, GCP, Azure) to drive data-driven decision-making.
 
