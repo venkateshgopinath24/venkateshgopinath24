@@ -1,5 +1,6 @@
-
-# Venkatesh Gopinath Bogem - Data Engineer & Machine Learning Enthusiast
+<h1 align="center">
+<strong> Venkatesh Gopinath Bogem - Data Engineer & Machine Learning Enthusiast</strong>
+</h1>
 
 Welcome to my GitHub! I am **Venkatesh Gopinath Bogem**, a Data Engineer and Machine Learning practitioner with a passion for solving real-world problems through scalable, cloud-based data solutions and cutting-edge machine learning techniques. I have hands-on experience building robust data pipelines, optimizing ETL workflows, and developing models for predictive analytics.
 
