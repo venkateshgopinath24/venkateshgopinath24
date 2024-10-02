@@ -73,7 +73,29 @@ Feel free to explore my projects below, where I apply a variety of tools and tec
 - Developed an **automated grading system** using **GitHub Actions** and **Python** scripts to evaluate student assignments at scale, improving grading efficiency by 40%.
 - Assisted in building ML workflows for projects, focusing on **MLOps** best practices, such as model versioning with **MLflow** and deploying models on **Google AI Platform**.
 
+---
 
+## 🎓 Education
+
+### **Master of Science in Data Analytics Engineering**  
+**Northeastern University**, Boston, MA | Sept 2021 – May 2024  
+- **Relevant Coursework**: Database Management Systems, Data Warehousing, Cloud Computing and Distributed Systems, Advanced SQL, Machine Learning, Advanced NLP, Big Data Analytics
+- Conducted research in **NLP** and **Deep Learning** techniques, focusing on sentiment analysis, emotion detection, and text classification models.
+- Led a project on **MLOps pipeline development** using **Google Cloud Platform**, **TensorFlow**, and **Airflow**, showcasing proficiency in end-to-end machine learning workflows.
+- Actively mentored peers on advanced Python programming, model deployment, and optimization techniques through various lab assignments and research projects.
+- Developed a comprehensive **sports database system**, utilizing **SQL** and **NoSQL** technologies, with fully interactive visual dashboards in **PowerBI**.
+
+### **Bachelor of Technology in Mechanical Engineering**  
+**Shiv Nadar University**, India | Aug 2015 – May 2019  
+- **Relevant Coursework**: Data Structures, Algorithms, Control Systems, Fluid Mechanics, Machine Learning for Engineers
+- Transitioned into **data engineering** through academic projects and personal development in Python, SQL, and cloud computing.
+- Built a machine learning model to predict product lifecycle using regression models, significantly improving manufacturing processes by incorporating real-time analytics.
+- Developed an early passion for data science and analytics through interdisciplinary electives, laying the foundation for pursuing a career in data engineering and analytics.
+
+### **Certifications**:
+- **AWS Certified Cloud Practitioner** – Amazon Web Services  
+- **Google Data Analytics Professional Certificate** – Google  
+- **Azure Data Fundamentals** – Microsoft
 ---
 ## 🚀 Featured Projects
 
