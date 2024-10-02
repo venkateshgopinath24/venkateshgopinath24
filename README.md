@@ -12,39 +12,16 @@ Feel free to explore my projects below, where I apply a variety of tools and tec
 - **GitHub:** [github.com/venkateshgopinath24](https://github.com/venkateshgopinath24)
 
 ---
+## 🛠 Technical Skills
 
-## 🛠 Tech Stack
-
-- 💻 **Programming Languages**: 
-  - Python | R | Java | SQL | NoSQL | Scala | Bash | JavaScript
-
-- ☁️ **Cloud Platforms**:
-  - AWS (S3, Glue, Redshift, Lambda, EC2, EMR, DynamoDB, IAM, Athena, QuickSight) | Google Cloud Platform (GCS, BigQuery, AI Platform) | Microsoft Azure (Blob Storage, Azure Functions)
-
-- 🧰 **Big Data & ETL Tools**:
-  - Apache Spark | Hadoop | PySpark | Hive | Kafka | Flink | Airflow | AWS Glue | Azure Data Factory
-
-- 📊 **Databases**:
-  - MySQL | PostgreSQL | Snowflake | MongoDB | Cassandra | DynamoDB | Azure Cosmos DB | Google Cloud SQL
-
-- 🔧 **Data Visualization**:
-  - Tableau | PowerBI | Looker | AWS QuickSight | Matplotlib | Seaborn | Plotly | D3.js
-
-- 🔢 **Machine Learning & NLP**:
-  - TensorFlow | Keras | Scikit-learn | PyTorch | Hugging Face Transformers | NLTK | SpaCy | Gensim | OpenCV
-
-- 📦 **DevOps & CI/CD**:
-  - Docker | Kubernetes | Jenkins | Terraform | Git | GitHub Actions | CircleCI | TravisCI | Ansible
-
-- 🚀 **Development Tools & Libraries**:
-  - Flask | FastAPI | Django | NumPy | Pandas | SciPy | DVC | MLflow | Kubeflow | Jupyter Notebooks
-
-- 🔐 **Security**:
-  - AWS IAM | CloudTrail | CloudWatch | Azure Security Center | GCP IAM
-
-- ⚙️ **Others**:
-  - Jira | Confluence | MS Excel | MS Office | Linux | Bash Scripting
-
+- 💻 **Programming Languages**: Python, R, Java, Advanced SQL, NoSQL
+- ☁️ **Cloud Platforms**: AWS (S3, Glue, Lambda, Redshift, DynamoDB), GCP, Azure
+- 📊 **Big Data Technologies**: Apache Spark, Hadoop, PySpark, Kafka
+- 🗄️ **Databases**: MySQL, Snowflake, PostgreSQL, MongoDB, DynamoDB
+- 🤖 **Machine Learning & AI**: Scikit-learn, TensorFlow, PyTorch, MLflow, Keras
+- 🚀 **DevOps & CI/CD**: Docker, Kubernetes, Jenkins, Terraform, Airflow
+- 📈 **Visualization Tools**: PowerBI, Tableau, AWS QuickSight, Looker
+- 🔧 **Other**: Git, Jira, MS Office, Excel
 ---
 ## 💼 Work Experience
 
