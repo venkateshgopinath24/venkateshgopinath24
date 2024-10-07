@@ -9,7 +9,8 @@ Feel free to explore my projects below, where I apply a variety of tools and tec
 ### 📫 Contact Information
 - **Email:** [venkateshgopi24@gmail.com](mailto:venkateshgopi24@gmail.com)
 - **LinkedIn:** [Venkatesh Gopinath](https://www.linkedin.com/in/venkatesh-gopinath/)
-- **GitHub:** [github.com/venkateshgopinath24](https://github.com/venkateshgopinath24)
+- **GitHub:** [venkateshgopinath24](https://github.com/venkateshgopinath24)
+- **Portfolio:** [venkateshgopinath24.github.io/](https://venkateshgopinath24.github.io/)
 
 ---
 ## 🛠 Technical Skills
