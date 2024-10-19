@@ -1,3 +1,5 @@
+  ![](https://komarev.com/ghpvc/?username=venkateshgopinath24)
+
 <h1 align="center">
 <strong> Venkatesh Gopinath Bogem <br> Data Engineer & Machine Learning Enthusiast</strong>
 </h1>
